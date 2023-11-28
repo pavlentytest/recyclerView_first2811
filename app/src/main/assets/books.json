@@ -1,0 +1,47 @@
+[
+  {
+    "name" : "Atomic Kotlin",
+    "year" : 2020,
+    "image" : "http://books.google.com/books/content?id=4_gjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name" : "Android Studio 4.1",
+    "year" : 2010,
+    "image": "https://ir.ozone.ru/s3/multimedia-z/wc1000/6324863351.jpg"
+  },
+  {
+    "name" : "Reactive Programming in Kotlin",
+    "year" : 2023,
+    "image": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6324861955.jpg"
+  },
+  {
+    "name" : "Kotlin. Программирование для профессионалов",
+    "year" : 2005,
+    "image": "https://ir.ozone.ru/s3/multimedia-v/wc1000/6446609767.jpg"
+  },
+  {
+    "name" : "Kotlin в действии",
+    "year" : 2009,
+    "image": "https://ir.ozone.ru/multimedia/wc1000/1020949847.JPG"
+  },
+  {
+    "name" : "Head First. Kotlin",
+    "year" : 2014,
+    "image": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6699817231.jpg"
+  },
+  {
+    "name" : "Программирование на Kotlin",
+    "year" : 2017,
+    "image": "https://ir.ozone.ru/s3/multimedia-q/wc1000/6714880730.jpg"
+  },
+  {
+    "name" : "Kotlin. Сборник рецептов",
+    "year" : 2022,
+    "image": "https://ir.ozone.ru/s3/multimedia-u/wc1000/6623320782.jpg"
+  },
+  {
+    "name" : "От Java к Kotlin",
+    "year" : 2013,
+    "image": "https://ir.ozone.ru/s3/multimedia-u/wc1000/6586170438.jpg"
+  }
+]
